@@ -49,23 +49,3 @@ The dataset is sourced from internal research and stored at:
 
 Features include demographic information, lifestyle factors, and mental health assessment scores.
 
-## 📂 Folder Structure (Recommended)
-Stress-Stage-Prediction/
-│
-├── data/
-│   └── anxiety_depression_data.csv
-│
-├── notebooks/
-│   ├── 01_data_exploration.ipynb
-│   ├── 02_data_preprocessing.ipynb
-│   ├── 03_model_training_evaluation.ipynb
-│   ├── 04_final_model_prediction.ipynb
-│
-├── src/
-│   ├── preprocessing.py
-│   ├── model_training.py
-│   ├── predict_single_sample.py
-│
-├── README.md
-├── requirements.txt
-└── .gitignore
